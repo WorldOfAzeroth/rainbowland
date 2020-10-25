@@ -1,0 +1,13 @@
+delete from quest_template_locale where locale <> 'zhCN';
+delete from item_set_names_locale where locale <> 'zhCN';
+delete from item_template_locale where locale <> 'zhCN';
+delete from quest_request_items_locale where locale <> 'zhCN';
+delete from quest_offer_reward_locale where locale <> 'zhCN';
+delete from points_of_interest_locale where locale <> 'zhCN';
+delete from page_text_locale where locale <> 'zhCN';
+delete from gossip_menu_option_locale where locale <> 'zhCN';
+delete from gameobject_template_locale where locale <> 'zhCN';
+delete from creature_text_locale where locale <> 'zhCN';
+delete from creature_template_locale where locale <> 'zhCN';
+delete from broadcast_text_locale where locale <> 'zhCN';
+delete from achievement_reward_locale where locale <> 'zhCN';

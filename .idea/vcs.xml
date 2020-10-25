@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/Battle-Royale" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-ah-bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-anticheat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-autobalance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-battle-royale" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-boss-announcer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-cfbg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-character-tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-congrats-on-level" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-duel-reset" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-guild-zone-system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-item-level-up" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-learn-spells" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-npc-buffer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-npc-enchanter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-npc-free-professions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-npc-morph" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-npc-services" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-npc-talent-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-pocket-portal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-professions-tool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-random-enchants" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-reward-played-time" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-starter-guild" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-transmog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/mod-weapon-visual" vcs="Git" />
+  </component>
+</project>
